@@ -1,0 +1,100 @@
+{
+  "id": "3678020",
+  "name": "bridge",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "bridge",
+  "glyphs": [
+    {
+      "icon_id": "6598347",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e8ef",
+      "unicode_decimal": 59631
+    },
+    {
+      "icon_id": "1367300",
+      "name": "报表 表尾管理",
+      "font_class": "baobiaobiaoweiguanli",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2076431",
+      "name": "分享小",
+      "font_class": "fenxiangxiao",
+      "unicode": "e8d8",
+      "unicode_decimal": 59608
+    },
+    {
+      "icon_id": "3402790",
+      "name": "自动清理",
+      "font_class": "zidongqingli",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "4766951",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "4936519",
+      "name": "heart-fill",
+      "font_class": "heart-fill",
+      "unicode": "e849",
+      "unicode_decimal": 59465
+    },
+    {
+      "icon_id": "7017728",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "9478564",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11487977",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "11536334",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "12011691",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "22777972",
+      "name": "首页-01",
+      "font_class": "shouye-01",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "29570572",
+      "name": "反馈",
+      "font_class": "fankui",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    }
+  ]
+}
